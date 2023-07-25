@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    background-color: #d5e4f4;
+}
+
+.nav ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+    color: #001eff;
+    border-right: 1px solid #001eff;
+}
+
+/*DESCOMPRIMIR*/
+
+.descomprimir {
+    text-align: end;
+    margin: 20px;
+}
+
+.descomprimir a{
+    color: #001eff;
+    text-decoration: none;
+}
