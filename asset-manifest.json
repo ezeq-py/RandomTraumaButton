@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RandomTraumaButton/static/css/main.70855cd6.css",
+    "main.js": "/RandomTraumaButton/static/js/main.8219bc88.js",
+    "static/media/png": "/RandomTraumaButton/static/media/5895d2f1cba9841eabab607a.5359c4b37d9f39ca7b38.png",
+    "index.html": "/RandomTraumaButton/index.html",
+    "main.70855cd6.css.map": "/RandomTraumaButton/static/css/main.70855cd6.css.map",
+    "main.8219bc88.js.map": "/RandomTraumaButton/static/js/main.8219bc88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70855cd6.css",
+    "static/js/main.8219bc88.js"
+  ]
+}
